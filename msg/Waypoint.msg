@@ -42,3 +42,4 @@ float32 yaw_rate
 float32 yaw_acceleration
 string yaw_type
 bool[4] constrained
+int32 index
